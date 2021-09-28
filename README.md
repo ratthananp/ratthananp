@@ -26,7 +26,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Developer** \
 [**CODIUM**](https://www.codium.co/) • Full-time \
-20019 - Present \
+2019 - Present \
 Languages & Technologies: `Python`, `Django`, `Angular`, `TypeScript`
 
 Please find me on LinkedIn for a more detailed description of my full work experience, education and certification.
